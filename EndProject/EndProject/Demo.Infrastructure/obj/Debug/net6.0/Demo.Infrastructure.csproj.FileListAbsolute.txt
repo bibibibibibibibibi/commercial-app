@@ -1,0 +1,15 @@
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.deps.json
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.dll
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\bin\Debug\net6.0\Demo.Infrastructure.pdb
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\bin\Debug\net6.0\Demo.Domain.dll
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\bin\Debug\net6.0\Demo.Domain.pdb
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.csproj.AssemblyReference.cache
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.AssemblyInfoInputs.cache
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.AssemblyInfo.cs
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.csproj.CoreCompileInputs.cache
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\obj\Debug\net6.0\Demo.Inf.DA525600.Up2Date
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.dll
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\obj\Debug\net6.0\refint\Demo.Infrastructure.dll
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\obj\Debug\net6.0\Demo.Infrastructure.pdb
+B:\CSharpOnline\EndProject\EndProject\Demo.Infrastructure\obj\Debug\net6.0\ref\Demo.Infrastructure.dll

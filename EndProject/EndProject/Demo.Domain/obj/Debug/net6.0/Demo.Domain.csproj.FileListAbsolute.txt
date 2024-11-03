@@ -1,0 +1,12 @@
+B:\CSharpOnline\EndProject\EndProject\Demo.Domain\bin\Debug\net6.0\Demo.Domain.deps.json
+B:\CSharpOnline\EndProject\EndProject\Demo.Domain\bin\Debug\net6.0\Demo.Domain.dll
+B:\CSharpOnline\EndProject\EndProject\Demo.Domain\bin\Debug\net6.0\Demo.Domain.pdb
+B:\CSharpOnline\EndProject\EndProject\Demo.Domain\obj\Debug\net6.0\Demo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+B:\CSharpOnline\EndProject\EndProject\Demo.Domain\obj\Debug\net6.0\Demo.Domain.AssemblyInfoInputs.cache
+B:\CSharpOnline\EndProject\EndProject\Demo.Domain\obj\Debug\net6.0\Demo.Domain.AssemblyInfo.cs
+B:\CSharpOnline\EndProject\EndProject\Demo.Domain\obj\Debug\net6.0\Demo.Domain.csproj.CoreCompileInputs.cache
+B:\CSharpOnline\EndProject\EndProject\Demo.Domain\obj\Debug\net6.0\Demo.Domain.dll
+B:\CSharpOnline\EndProject\EndProject\Demo.Domain\obj\Debug\net6.0\refint\Demo.Domain.dll
+B:\CSharpOnline\EndProject\EndProject\Demo.Domain\obj\Debug\net6.0\Demo.Domain.pdb
+B:\CSharpOnline\EndProject\EndProject\Demo.Domain\obj\Debug\net6.0\ref\Demo.Domain.dll
+B:\CSharpOnline\EndProject\EndProject\Demo.Domain\obj\Debug\net6.0\Demo.Domain.csproj.AssemblyReference.cache

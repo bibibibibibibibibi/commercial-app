@@ -1,0 +1,157 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v6.0": {
+      "Demo.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v6.0",
+        "dependencies": {
+          "Demo.Persistence": "1.0.0"
+        }
+      },
+      "Demo.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v6.0"
+      },
+      "Demo.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v6.0",
+        "dependencies": {
+          "Demo.Domain": "1.0.0"
+        }
+      },
+      "Demo.Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v6.0",
+        "dependencies": {
+          "Demo.Domain": "1.0.0"
+        }
+      }
+    },
+    ".NETFramework,Version=v6.0/win7-x86": {
+      "Demo.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v6.0",
+        "dependencies": {
+          "Demo.Persistence": "1.0.0"
+        }
+      },
+      "Demo.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v6.0"
+      },
+      "Demo.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v6.0",
+        "dependencies": {
+          "Demo.Domain": "1.0.0"
+        }
+      },
+      "Demo.Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v6.0",
+        "dependencies": {
+          "Demo.Domain": "1.0.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Demo.Application/Demo.Application.csproj",
+      "msbuildProject": "../../Demo.Application/Demo.Application.csproj"
+    },
+    "Demo.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Demo.Domain/Demo.Domain.csproj",
+      "msbuildProject": "../../Demo.Domain/Demo.Domain.csproj"
+    },
+    "Demo.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../../Demo.Infrastructure/Demo.Infrastructure.csproj",
+      "msbuildProject": "../../Demo.Infrastructure/Demo.Infrastructure.csproj"
+    },
+    "Demo.Persistence/1.0.0": {
+      "type": "project",
+      "path": "../../Demo.Persistence/Demo.Persistence.csproj",
+      "msbuildProject": "../../Demo.Persistence/Demo.Persistence.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v6.0": [
+      "Demo.Application >= 1.0.0",
+      "Demo.Domain >= 1.0.0",
+      "Demo.Infrastructure >= 1.0.0",
+      "Demo.Persistence >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Hi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "B:\\CSharpOnline\\commercial-app\\EndProject\\EndProject\\Demo.API\\Demo.Api\\Demo.Api.csproj",
+      "projectName": "Demo.Api",
+      "projectPath": "B:\\CSharpOnline\\commercial-app\\EndProject\\EndProject\\Demo.API\\Demo.Api\\Demo.Api.csproj",
+      "packagesPath": "C:\\Users\\Hi\\.nuget\\packages\\",
+      "outputPath": "B:\\CSharpOnline\\commercial-app\\EndProject\\EndProject\\Demo.API\\Demo.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Hi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net60"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net60": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "B:\\CSharpOnline\\commercial-app\\EndProject\\EndProject\\Demo.Application\\Demo.Application.csproj": {
+              "projectPath": "B:\\CSharpOnline\\commercial-app\\EndProject\\EndProject\\Demo.Application\\Demo.Application.csproj"
+            },
+            "B:\\CSharpOnline\\commercial-app\\EndProject\\EndProject\\Demo.Domain\\Demo.Domain.csproj": {
+              "projectPath": "B:\\CSharpOnline\\commercial-app\\EndProject\\EndProject\\Demo.Domain\\Demo.Domain.csproj"
+            },
+            "B:\\CSharpOnline\\commercial-app\\EndProject\\EndProject\\Demo.Infrastructure\\Demo.Infrastructure.csproj": {
+              "projectPath": "B:\\CSharpOnline\\commercial-app\\EndProject\\EndProject\\Demo.Infrastructure\\Demo.Infrastructure.csproj"
+            },
+            "B:\\CSharpOnline\\commercial-app\\EndProject\\EndProject\\Demo.Persistence\\Demo.Persistence.csproj": {
+              "projectPath": "B:\\CSharpOnline\\commercial-app\\EndProject\\EndProject\\Demo.Persistence\\Demo.Persistence.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net60": {
+        "targetAlias": "net6.0",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.425\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

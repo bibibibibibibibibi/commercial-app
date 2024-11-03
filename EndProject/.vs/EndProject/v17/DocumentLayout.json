@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\CSharpOnline\\EndProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E684ADD7-C3D4-4706-A8A3-F9845B52DAE1}|EndProject\\Demo.API\\Demo.Api\\Demo.Api.csproj|b:\\csharponline\\endproject\\endproject\\demo.api\\demo.api\\demo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E684ADD7-C3D4-4706-A8A3-F9845B52DAE1}|EndProject\\Demo.API\\Demo.Api\\Demo.Api.csproj|solutionrelative:endproject\\demo.api\\demo.api\\demo.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1774F802-98ED-4D12-A19A-43A2568DAA14}|EndProject\\Demo.Application\\Demo.Application.csproj|b:\\csharponline\\endproject\\endproject\\demo.application\\demo.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1774F802-98ED-4D12-A19A-43A2568DAA14}|EndProject\\Demo.Application\\Demo.Application.csproj|solutionrelative:endproject\\demo.application\\demo.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4645FE4-7B78-4830-B056-4185862EF0D6}|EndProject\\Demo.Persistence\\Demo.Persistence.csproj|b:\\csharponline\\endproject\\endproject\\demo.persistence\\demo.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4645FE4-7B78-4830-B056-4185862EF0D6}|EndProject\\Demo.Persistence\\Demo.Persistence.csproj|solutionrelative:endproject\\demo.persistence\\demo.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{302D3511-8BB5-466F-B838-21EA5BC59608}|EndProject\\Demo.Infrastructure\\Demo.Infrastructure.csproj|b:\\csharponline\\endproject\\endproject\\demo.infrastructure\\demo.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{302D3511-8BB5-466F-B838-21EA5BC59608}|EndProject\\Demo.Infrastructure\\Demo.Infrastructure.csproj|solutionrelative:endproject\\demo.infrastructure\\demo.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|b:\\csharponline\\endproject\\endproject\\demo.domain\\demo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|solutionrelative:endproject\\demo.domain\\demo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4645FE4-7B78-4830-B056-4185862EF0D6}|EndProject\\Demo.Persistence\\Demo.Persistence.csproj|b:\\csharponline\\endproject\\endproject\\demo.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4645FE4-7B78-4830-B056-4185862EF0D6}|EndProject\\Demo.Persistence\\Demo.Persistence.csproj|solutionrelative:endproject\\demo.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|b:\\csharponline\\endproject\\endproject\\demo.domain\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|solutionrelative:endproject\\demo.domain\\entities\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|b:\\csharponline\\endproject\\endproject\\demo.domain\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|solutionrelative:endproject\\demo.domain\\entities\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|b:\\csharponline\\endproject\\endproject\\demo.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|solutionrelative:endproject\\demo.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|b:\\csharponline\\endproject\\endproject\\demo.domain\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|solutionrelative:endproject\\demo.domain\\entities\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|b:\\csharponline\\endproject\\endproject\\demo.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|solutionrelative:endproject\\demo.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|b:\\csharponline\\endproject\\endproject\\demo.domain\\entities\\domainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|solutionrelative:endproject\\demo.domain\\entities\\domainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|b:\\csharponline\\endproject\\endproject\\demo.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|solutionrelative:endproject\\demo.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|b:\\csharponline\\endproject\\endproject\\demo.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|solutionrelative:endproject\\demo.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|b:\\csharponline\\endproject\\endproject\\demo.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|solutionrelative:endproject\\demo.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|b:\\csharponline\\endproject\\endproject\\demo.domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|solutionrelative:endproject\\demo.domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|b:\\csharponline\\endproject\\endproject\\demo.domain\\entities\\iaudittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|solutionrelative:endproject\\demo.domain\\entities\\iaudittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|b:\\csharponline\\endproject\\endproject\\demo.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|solutionrelative:endproject\\demo.domain\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|b:\\csharponline\\endproject\\endproject\\demo.domain\\entities\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F51FFF-434A-41E1-959A-A8358B954B13}|EndProject\\Demo.Domain\\Demo.Domain.csproj|solutionrelative:endproject\\demo.domain\\entities\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Demo.Api",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.API\\Demo.Api\\Demo.Api.csproj",
+              "RelativeDocumentMoniker": "EndProject\\Demo.API\\Demo.Api\\Demo.Api.csproj",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.API\\Demo.Api\\Demo.Api.csproj",
+              "RelativeToolTip": "EndProject\\Demo.API\\Demo.Api\\Demo.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T10:23:18.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Demo.Application",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Application\\Demo.Application.csproj",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Application\\Demo.Application.csproj",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Application\\Demo.Application.csproj",
+              "RelativeToolTip": "EndProject\\Demo.Application\\Demo.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T10:23:13.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EndProject\\Demo.Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:21:04.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\Permission.cs",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Domain\\Entities\\Permission.cs",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\Permission.cs",
+              "RelativeToolTip": "EndProject\\Demo.Domain\\Entities\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:14:02.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\RolePermission.cs",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Domain\\Entities\\RolePermission.cs",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\RolePermission.cs",
+              "RelativeToolTip": "EndProject\\Demo.Domain\\Entities\\RolePermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:13:59.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "EndProject\\Demo.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:13:56.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo.Persistence",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Persistence\\Demo.Persistence.csproj",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Persistence\\Demo.Persistence.csproj",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Persistence\\Demo.Persistence.csproj",
+              "RelativeToolTip": "EndProject\\Demo.Persistence\\Demo.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T09:19:19.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Demo.Domain",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Demo.Domain.csproj",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Domain\\Demo.Domain.csproj",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Demo.Domain.csproj",
+              "RelativeToolTip": "EndProject\\Demo.Domain\\Demo.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T09:19:29.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Demo.Infrastructure",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Infrastructure\\Demo.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Infrastructure\\Demo.Infrastructure.csproj",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Infrastructure\\Demo.Infrastructure.csproj",
+              "RelativeToolTip": "EndProject\\Demo.Infrastructure\\Demo.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T09:19:27.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\AppRole.cs",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Domain\\Entities\\AppRole.cs",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\AppRole.cs",
+              "RelativeToolTip": "EndProject\\Demo.Domain\\Entities\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:13:53.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Domain\\Entities\\Category.cs",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "EndProject\\Demo.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:43:33.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Domain\\Entities\\OrderDetail.cs",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "EndProject\\Demo.Domain\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:55:15.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Domain\\Entities\\Order.cs",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "EndProject\\Demo.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:55:12.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Domain\\Entities\\CartItem.cs",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\CartItem.cs",
+              "RelativeToolTip": "EndProject\\Demo.Domain\\Entities\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:42:14.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Review.cs",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Domain\\Entities\\Review.cs",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\Review.cs",
+              "RelativeToolTip": "EndProject\\Demo.Domain\\Entities\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:25:59.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Domain\\Entities\\Product.cs",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "EndProject\\Demo.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwAYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:25:44.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAuditTable.cs",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\IAuditTable.cs",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Domain\\Entities\\IAuditTable.cs",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\IAuditTable.cs",
+              "RelativeToolTip": "EndProject\\Demo.Domain\\Entities\\IAuditTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:25:43.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DomainEntity.cs",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\DomainEntity.cs",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Domain\\Entities\\DomainEntity.cs",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\DomainEntity.cs",
+              "RelativeToolTip": "EndProject\\Demo.Domain\\Entities\\DomainEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:25:42.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Variant.cs",
+              "DocumentMoniker": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\Variant.cs",
+              "RelativeDocumentMoniker": "EndProject\\Demo.Domain\\Entities\\Variant.cs",
+              "ToolTip": "B:\\CSharpOnline\\EndProject\\EndProject\\Demo.Domain\\Entities\\Variant.cs",
+              "RelativeToolTip": "EndProject\\Demo.Domain\\Entities\\Variant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T09:26:03.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{778b5376-ad77-4751-acdc-f3d18343f8dd}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

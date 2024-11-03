@@ -1,0 +1,15 @@
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\bin\Debug\net6.0\Demo.Persistence.deps.json
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\bin\Debug\net6.0\Demo.Persistence.dll
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\bin\Debug\net6.0\Demo.Persistence.pdb
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\bin\Debug\net6.0\Demo.Domain.dll
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\bin\Debug\net6.0\Demo.Domain.pdb
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\obj\Debug\net6.0\Demo.Persistence.csproj.AssemblyReference.cache
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\obj\Debug\net6.0\Demo.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\obj\Debug\net6.0\Demo.Persistence.AssemblyInfoInputs.cache
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\obj\Debug\net6.0\Demo.Persistence.AssemblyInfo.cs
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\obj\Debug\net6.0\Demo.Persistence.csproj.CoreCompileInputs.cache
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\obj\Debug\net6.0\Demo.Per.0FA7672D.Up2Date
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\obj\Debug\net6.0\Demo.Persistence.dll
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\obj\Debug\net6.0\refint\Demo.Persistence.dll
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\obj\Debug\net6.0\Demo.Persistence.pdb
+B:\CSharpOnline\EndProject\EndProject\Demo.Persistence\obj\Debug\net6.0\ref\Demo.Persistence.dll
